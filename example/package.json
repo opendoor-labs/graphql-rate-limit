@@ -5,7 +5,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "apollo-server": "^2.21.2",
+    "apollo-server": "^3.13.0",
     "graphql-middleware": "^6.0.4",
     "graphql-rate-limit": "../",
     "graphql-shield": "^7.5.0",
